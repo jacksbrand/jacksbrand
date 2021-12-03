@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @jacksbrand. 🌱 The best feature is speed. Mordern tech brings speed; therefore, I am the modern tech web dev.
+👋 Hi, I’m Jack.
+
+🏍️ Javascript dev. 🧑‍⚖️ ex solicitor trainee.
 
 <!---
 jacksbrand/jacksbrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
