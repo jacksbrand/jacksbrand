@@ -1,6 +1,6 @@
 👋 Hi, I’m Jack.
 
-🏍️ Javascript dev; 🧑‍⚖️ Ex solicitor trainee.
+🏍️ Javascript engineer; 🧑‍⚖️ Ex solicitor trainee.
 
 <!---
 jacksbrand/jacksbrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
