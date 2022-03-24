@@ -1,6 +1,6 @@
 👋 Hi, I’m Jack.
 
-🏍️ Javascript engineer; 🧑‍⚖️ Ex solicitor trainee.
+🏍️ Javascript engineer; 🧑‍⚖️ Nearly qualified solicitor.
 
 I have a side passion for all things automated and machine learned. My profile picture is what my anime-self would look like according to a computer. The scary thing is, I wasn't wearing any glasses when I took that picture... He definately looks to be a villan 🦹
 
