@@ -1,6 +1,6 @@
 👋 Hi, I’m Jack.
 
-🏍️ Javascript engineer; 🧑‍⚖️ Narrowly avoided qualifying as a solicitor 😅.
+🏍️ Javascript engineer; 🧑‍⚖️ Narrowly avoided qualifying as a solicitor.
 
 🗺️ I am currently working on a secret project to do with mapping which I look forward to sharing with the world 🌎. 
 
