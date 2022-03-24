@@ -2,7 +2,9 @@
 
 🏍️ Javascript engineer; 🧑‍⚖️ Nearly qualified solicitor.
 
-I have a side passion for all things automated and machine learned. My profile picture is what my anime-self would look like according to a computer. The scary thing is, I wasn't wearing any glasses when I took that picture... He definately looks to be a villan 🦹
+I am currently working on a secret project to do with mapping which I look forward to sharing with the world.
+
+I have a side passion for all things automated and machine learned. I wasn't wearing any glasses when a computer generated my profile picture.. 'definately looks to be a villan 🦹.
 
 <div align="left">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
