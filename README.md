@@ -2,7 +2,7 @@
 
 🏍️ Javascript engineer; 🧑‍⚖️ Narrowly avoided qualifying as a solicitor.
 
-🗺️ I am currently working on a secret project to do with mapping which I look forward to sharing with the world 🌎. 
+🗺️ I am currently working on a project related to maps which I look forward to sharing with the world 🌎. 
 
 I have a side passion for all things automated and machine learned. I wasn't wearing any glasses when a computer generated my profile picture.. 'definitely looks to be a villan 🦹.
 
