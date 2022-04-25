@@ -1,8 +1,8 @@
 👋 Hi, I’m Jack.
 
-🏍️ Mechanical Sympathist; 🧑‍⚖️ Narrowly avoided qualifying as a solicitor.
+🏍️ Mechanical Sympathist; 🧑‍⚖️ Narrowly avoided becoming a lawyer.
 
-🗺️ Full stack Go / Next planet navigation utility project in the works 🌎. 
+🗺️ Full stack Go / Next planet navigation utility project in the works 🌎.
 
 I have a side passion for all things automated and machine learned. I wasn't wearing any glasses when a computer generated my profile picture.. 'definitely looks to be a villan 🦹.
 
