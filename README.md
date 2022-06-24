@@ -4,7 +4,7 @@
 
 🗺️ Full stack Go / Next planet navigation utility project in the works 🌎.
 
-I have a side passion for all things automated and machine learned. I wasn't wearing any glasses when a computer generated my profile picture.. 'definitely looks to be a villan 🦹.
+I have a side passion for all things automated and machine learned. I wasn't wearing any glasses when a computer generated my profile picture.. definitely looks to be a villan 🦹.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lambdajack&count_private=true&show_icons=true&theme=tokyonight)
 
